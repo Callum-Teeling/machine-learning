@@ -1,4 +1,4 @@
-# machine-learning
+# Individual Project
 
 This is code written in Python using a JupyterLab notebook that provides basic analysis of the iris dataset. The analysis includes K Nearest Neighbours and Principal Component Analysis to separate and identify three different species of iris based on their morphological features. Finally, the code includes space to input data into the model that can be used to predict the iris species the morphological data could have come from. Although this code uses the iris dataset, it can be edited to analyse other datasets in a similar way.
 
