@@ -4,7 +4,7 @@ This is code written in Python using a JupyterLab notebook that provides basic a
 
 To run the code:
 
-1. Download the JupyterLab notebook that holds the script which can be found in this repository.
+1. Download the JupyterLab notebook that holds the script which can be found in this repository. Click on the file then click "Raw", in the new tab that opens save the file with Ctrl + S. In JupyterLab, navigate to where you saved the file. It will open as a xxx.ipynb.txt, remove the .txt from the file name and reopen the file in JupyterLab, the file should now open as a notebook and the code can be run from there.
 
 2. Code to read in the iris data, as well as code for importing modules needed for the analysis are all included within the script.
 
